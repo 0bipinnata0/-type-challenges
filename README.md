@@ -1,1 +1,1 @@
-# -type-challenges
+# type-challenges
